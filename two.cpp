@@ -61,7 +61,7 @@ int main()
 	root = Insert(root,25);
 	root = Insert(root,8);
 	root = Insert(root,12);
-    root = Insert(root,6);
+        root = Insert(root,6);
 
     cout<<"Height of given BST is: "<<height(root);
 }
